@@ -1,9 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import cover1 from '../../assets/cover9.avif'
-import './Cover.css'
 
-const Cover = () => {
+const Blogs = () => {
     return (
         <div className='cover'>
             <div className='cover-image'>
@@ -11,8 +9,8 @@ const Cover = () => {
                 <img className='w-full' src={cover1} alt=""/>
             </div>
             <div className='content'>
-                <p className='text-4xl font-bold'>PROJECTS</p>
-                <h2>fhjjjjjjjjfj</h2>
+                <p className='text-5xl font-bold'>Blogs is coming soon......</p>
+                
             
             </div>
            
@@ -21,4 +19,4 @@ const Cover = () => {
     );
 };
 
-export default Cover;
+export default Blogs;

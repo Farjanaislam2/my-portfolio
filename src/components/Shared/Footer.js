@@ -33,7 +33,7 @@ const Footer = () => {
     }
   ]
     return (
-        <footer className="footer p-10">
+        <footer className="footer mt-12 p-10">
   <div>
     <span className="footer-title">KNOW FOR FARJANA</span> 
     <p className="link link-hover">Javascript</p> 

@@ -6,6 +6,7 @@ const Projects = () => {
         <div>
             
             <Cover></Cover>
+            
         </div>
     );
 };

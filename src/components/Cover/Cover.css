@@ -32,7 +32,7 @@
 .cover .content{
     position: absolute;
     transform: translate(-50%, -50%);
-    top: 25%;
+    top: 50%;
     left: 50%;
     text-align: center;
 }
