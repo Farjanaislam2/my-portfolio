@@ -6,6 +6,9 @@ import Home from "../components/Home/Home";
 import Resume from "../components/Resume/Resume";
 import Main from "../Layout/Main";
 import Projects from './../components/Projects/Projects';
+import Mobile from './../components/Project/Mobile';
+import Cleaning from './../components/Project/Cleaning';
+import Quiz from './../components/Project/Quiz';
 
 const router = createBrowserRouter([
     {
@@ -35,6 +38,18 @@ const router = createBrowserRouter([
             {
                 path: '/blog',
                 element: <Blogs></Blogs>
+            },
+            {
+                path: '/mobile',
+                element: <Mobile></Mobile>
+            },
+            {
+                path: '/cleaning',
+                element: <Cleaning></Cleaning>
+            },
+            {
+                path: '/quiz',
+                element: <Quiz></Quiz>
             },
         ]
     }

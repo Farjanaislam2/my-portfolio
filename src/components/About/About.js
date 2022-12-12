@@ -27,7 +27,7 @@ const About = () => {
             </p>
           </div>
           <div>
-            <div className="card w-96 mt-7">
+            <div className="card w-full mt-7">
               <figure>
                 <img
                   src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?size=338&ext=jpg&ga=GA1.2.1819645791.1666648323"

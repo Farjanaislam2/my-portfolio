@@ -13,6 +13,7 @@ const Banner = () => {
           <div className="max-w-md">
           <p className='text-3xl sm:'>HEY THERE!</p>
                  <h1 className='text-4xl mt-3'>I AM <span className='text-amber-400 font-bold'>FARJANA ISLAM</span></h1>
+                 <h1 className='mt-3 text-2xl'>MERN Stack Developer</h1>
             <div className='mt-5'>
                 <a href={resume} download>
                 <button className="btn bg-gradient-to-r from-yellow-400 to-amber-600 mx-5">RESUME</button>
