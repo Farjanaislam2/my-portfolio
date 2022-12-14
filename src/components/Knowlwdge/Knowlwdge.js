@@ -5,6 +5,7 @@ const Knowlwdge = () => {
     <div>
       <div className="bg-gradient-to-r from-black to-gray-900 p-16">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+          <h1 className="text-4xl text-center text-amber-500">KNOWLEDGE</h1>
           <div className="card w-full bg-gradient-to-r from-black to-gray-900 shadow-xl">
             <figure className="px-8 pt-8">
               <img
